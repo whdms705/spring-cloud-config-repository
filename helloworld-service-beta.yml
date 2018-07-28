@@ -1,3 +1,6 @@
+server:
+  port: 8010
+
 leekyoungil:
   profile: i'm beta
   said:
